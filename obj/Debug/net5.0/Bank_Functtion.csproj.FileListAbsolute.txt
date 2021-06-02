@@ -1,0 +1,16 @@
+C:\Users\konnect\source\repos\Bank_Functtion\bin\Debug\net5.0\Bank_Functtion.exe
+C:\Users\konnect\source\repos\Bank_Functtion\bin\Debug\net5.0\Bank_Functtion.deps.json
+C:\Users\konnect\source\repos\Bank_Functtion\bin\Debug\net5.0\Bank_Functtion.runtimeconfig.json
+C:\Users\konnect\source\repos\Bank_Functtion\bin\Debug\net5.0\Bank_Functtion.runtimeconfig.dev.json
+C:\Users\konnect\source\repos\Bank_Functtion\bin\Debug\net5.0\Bank_Functtion.dll
+C:\Users\konnect\source\repos\Bank_Functtion\bin\Debug\net5.0\ref\Bank_Functtion.dll
+C:\Users\konnect\source\repos\Bank_Functtion\bin\Debug\net5.0\Bank_Functtion.pdb
+C:\Users\konnect\source\repos\Bank_Functtion\obj\Debug\net5.0\Bank_Functtion.csprojAssemblyReference.cache
+C:\Users\konnect\source\repos\Bank_Functtion\obj\Debug\net5.0\Bank_Functtion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konnect\source\repos\Bank_Functtion\obj\Debug\net5.0\Bank_Functtion.AssemblyInfoInputs.cache
+C:\Users\konnect\source\repos\Bank_Functtion\obj\Debug\net5.0\Bank_Functtion.AssemblyInfo.cs
+C:\Users\konnect\source\repos\Bank_Functtion\obj\Debug\net5.0\Bank_Functtion.csproj.CoreCompileInputs.cache
+C:\Users\konnect\source\repos\Bank_Functtion\obj\Debug\net5.0\Bank_Functtion.dll
+C:\Users\konnect\source\repos\Bank_Functtion\obj\Debug\net5.0\ref\Bank_Functtion.dll
+C:\Users\konnect\source\repos\Bank_Functtion\obj\Debug\net5.0\Bank_Functtion.pdb
+C:\Users\konnect\source\repos\Bank_Functtion\obj\Debug\net5.0\Bank_Functtion.genruntimeconfig.cache
